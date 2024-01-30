@@ -1,0 +1,19 @@
+{
+	"name": "google-schoolar-scraper",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.mjs",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "ADONIS JR",
+	"license": "ISC",
+	"dependencies": {
+		"@types/node": "^18.0.6",
+		"axios": "^1.6.0",
+		"cheerio": "^1.0.0-rc.12",
+		"express": "^4.18.2",
+		"node-fetch": "^3.2.6"
+	}
+}
